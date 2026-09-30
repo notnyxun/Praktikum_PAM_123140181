@@ -10,9 +10,9 @@
 
 | Folder | Deskripsi |
 |---|---|
-| [`1_123140181`](./1_123140181/) | Tugas Praktikum 1 |
+| [`1_123140181`](./1_123140181/) | Tugas Praktikum 1 - Setup, Hello World |
 | [`2_123140181`](./2_123140181/) | Tugas Praktikum 2 - News Feed Simulator (KMP, Coroutines, Flow & StateFlow) |
-| [`3_123140181`](./3_123140181/) | Tugas Praktikum 3 |
+| [`3_123140181`](./3_123140181/) | Tugas Praktikum 3 - My Profile App|
 | [`4_123140181`](./4_123140181/) | Tugas Praktikum 4 |
 | [`5_123140181`](./5_123140181/) | Tugas Praktikum 5 |
 | [`6_123140181`](./6_123140181/) | Tugas Praktikum 6 |
