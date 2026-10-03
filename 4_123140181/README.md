@@ -64,9 +64,10 @@ Project ini merupakan pengembangan dari aplikasi **Profile App** pada minggu seb
 ## 🎨 Tampilan Aplikasi
 
 ### Profile View
+<img width="453" height="508" alt="Screenshot 2026-09-30 221901" src="https://github.com/user-attachments/assets/e5d904d2-6e93-42ca-8761-f3b3207800e1" />
 
 ### Dark Mode Feature
-
+<img width="467" height="678" alt="Screenshot 2026-10-04 022901" src="https://github.com/user-attachments/assets/77ad3d26-cac8-49ce-9e90-085e2466b16a" />
 
 ---
 
